@@ -3096,10 +3096,6 @@
 
 	}
 
-	&.first-unread {
-		margin-top: 20px;
-	}
-
 	&.system .body {
 		font-style: italic;
 
